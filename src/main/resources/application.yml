@@ -62,4 +62,4 @@ spring:
 pharmacy:
   recommendation:
     base:
-      url: http://localhost/dir/ # aws ec2 ip 할당 받은 후 변경
+      url: http://43.200.189.96/dir/ # aws ec2 ip 할당 받은 후 변경
